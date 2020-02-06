@@ -1,0 +1,5 @@
+public class hworld{
+	public static void main(String[] args){
+		System.out.prinln("Hello World");
+	}
+}
